@@ -1,3 +1,5 @@
-hello, 
-we are a development and programming agency
-we work all over the world.
+# 👋 Hello
+
+We are a **development and programming agency**.  
+We work **all over the world** 🌍.
+
